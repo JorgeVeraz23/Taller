@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ScriptBD",
+    "\\VeraZambrano",
+    "\\VeraZambrano\\bin",
+    "\\VeraZambrano\\bin\\Debug",
+    "\\VeraZambrano\\bin\\Debug\\net6.0",
+    "\\VeraZambrano\\Controllers",
+    "\\VeraZambrano\\Migrations",
+    "\\VeraZambrano\\Models",
+    "\\VeraZambrano\\obj"
+  ],
+  "SelectedNode": "\\VeraZambrano\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.dll",
+  "PreviewInSolutionExplorer": false
+}
